@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumedhchatse
-- 👀 I’m interested in AI, machine Learning, Deep learning, Data science, Devops, And Cloud techanologies.
-- 🌱 I’m currently learning "Machine learning and data Science.
+- 👀 I’m interested in AI, machine Learning, AIOps, MLOps, Devops, And Cloud techanologies.
+- 🌱 I’m currently exploring new edge on AI and Machine learning on problem solving
 - 💞️ I’m looking to collaborate on same.
 - 📫 How to reach me ... mail me sumedhhatse11@gmail.com
 
